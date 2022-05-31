@@ -1,4 +1,4 @@
-# Flow Model
+# Modelin
 
 ## Inspiration
 At the very begining of this project, we were aware of two typical and obvious phenomenon:
