@@ -6,7 +6,7 @@ At the very begining of this project, we were aware of two typical and obvious p
 2. For past years, we have witnessed many dApps crashing down, because of theire unhealthy token-economy. What if there exist a user-friendly tool that can help web3 solo-developer / teams to design, test, learn and spread good token economy models?
 
 ## What it does
-Our product —— Flow Model —— is built for lowering the entrance of building and spreading good token-economy.
+Our product —— Modelin —— is built for lowering the entrance of building and spreading good token-economy.
 ### Build
 We implement a token-economy simulator engine which can be used in a low-code way. Users only need to drag some components to build up their own economy model, and then set parameters of it. Just one click on "start", everything will be calculated automatically. Also, users can stop at anytime before simulation ended, and adjust parameters. At the end, we provide data visualization panel to show simulation data clearly. 
 ### Spread
@@ -38,7 +38,7 @@ Although we already synced NFT metadata at back end, we don't want to keep NFT p
 - Main- stream NFT marketplace design
 - Classical encrypt / decrypt solutions
 
-## What's next for Flow Model
+## What's next for Modelin
 - Tool should be more generic to adapt kinds of existed token economy. For example, there should be more type of nodes, self-defined parameters and so on.
 - Provide more real token economy model that is already used in popular dApp, as tutorials / use-cases.
 - Design completed creator-economy and our own token-economy :)
