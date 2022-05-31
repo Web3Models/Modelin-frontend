@@ -1,5 +1,5 @@
 # Modelin
-
+Smart Contracts: https://github.com/Web3Models/Modelin-contract
 ## Inspiration
 At the very begining of this project, we were aware of two typical and obvious phenomenon:
 1. There are already thousands of finance products on blockchains, and we don't want to just make a new finance product doing same things as existed ones only with different UI / name / logo. We decided to create a brand-new, eye-catching dApp.
