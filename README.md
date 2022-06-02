@@ -1,4 +1,5 @@
 # Modelin
+Modelin: Tokenmics Made Easy. A web workspace and decentralized protocol for the design and optimization of Tokenmics.  
 Demo Video: https://www.youtube.com/watch?v=khhpVXzM1h4  
 Smart Contracts: https://github.com/Web3Models/Modelin-contract
 ## Inspiration
@@ -46,8 +47,6 @@ Although we already synced NFT metadata at back end, we don't want to keep NFT p
 - Become a mature Web3 knowledge community containing many more valuable knowledge!
 
 
-## demo
-[How-to-use](https://youtu.be/oK2lsFjlEmw)
 ## Project setup
 
 ```
